@@ -24,4 +24,6 @@ I couldn't get this to work with the newest Flask version, which changed the lau
 - http://mattrichardson.com/Raspberry-Pi-Flask/
 - http://containertutorials.com/docker-compose/flask-simple-app.html
 - https://projects.raspberrypi.org/en/projects/python-web-server-with-flask
-
+- https://randomnerdtutorials.com/raspberry-pi-web-server-using-flask-to-control-gpios/
+- https://learn.sparkfun.com/tutorials/using-flask-to-send-data-to-a-raspberry-pi/raspberry-pi-software
+- https://www.foobarflies.io/python-on-the-pi-how-to-run-a-flask-gpio-web-service/
